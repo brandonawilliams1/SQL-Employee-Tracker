@@ -1,4 +1,5 @@
 # SQL-EMPLOYEE TRACKER
+\Assets/sql-empl-trkr-employee.png
 
 ## Description
 This is a command-line application made to manage a company's employee database, using Node.js, Inquirer, and MySQL.
