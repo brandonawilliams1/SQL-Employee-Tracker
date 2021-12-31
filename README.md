@@ -1,6 +1,4 @@
-# emp_tracker
-# 12 SQL: Employee Tracker
-
+# SQL-EMPLOYEE TRACKER
 
 ## Description
 This is a command-line application made to manage a company's employee database, using Node.js, Inquirer, and MySQL.
@@ -15,7 +13,7 @@ Once repo is forked;
 
 ## Link to demo
 
-https://watch.screencastify.com/v/fTUMBop5DEPWt0PpP3UF
+https://watch.screencastify.com/v/zXksAiWhOZqm5Z3tXKeu
 
 
 
